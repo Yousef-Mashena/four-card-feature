@@ -57,7 +57,7 @@ span {
 }
 
 h1 {
-  font: normal 200 1.5rem/150% 'Poppins';
+  font: normal 200 1.5rem/150% 'Poppins', Arial, Helvetica, sans-serif;
   padding-bottom: 1.25rem;
 }
 
@@ -66,11 +66,11 @@ span {
 }
 
 p {
-  font: normal 400 0.938rem/150% 'Poppins';
+  font: normal 400 0.938rem/150% 'Poppins', Arial, Helvetica, sans-serif;
 }
 
 h2 {
-  font: normal 600 1rem/150% 'Poppins';
+  font: normal 600 1rem/150% 'Poppins', Arial, Helvetica, sans-serif;
 }
 
 article p {
